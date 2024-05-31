@@ -40,7 +40,7 @@
                         </form>
                     </div>
                     <div class="card-footer text-center">
-                        <small>&copy; 2024 Daffa Al Ghifary</small>
+                        <small>&copy; 2024 Daffa Al gifaiiii</small>
                     </div>
                 </div>
             </div>
